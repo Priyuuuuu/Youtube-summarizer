@@ -54,7 +54,7 @@ The **YouTube Summarizer** project is a Streamlit-based application designed to 
    git clone https://github.com/Priyuuuuu/Youtube-summarizer
    ```
    
-2. **Install dependencies**:
+2. **Install dependencies**
 
 3. **Run the application**:
    ```bash
